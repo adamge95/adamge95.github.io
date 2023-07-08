@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u> or my <u><a href="{{author.researchgate}}">ResearchGate profile</a>.</u>
+You can also find my articles on my <a href="https://scholar.google.com/citations?user=FYxqGIYAAAAJ&hl=en&oi=ao" target="_blank"> Google Scholar </a> or  <a href="https://www.researchgate.net/profile/Georges-Adam-2" target="_blank">ResearchGate </a> profile.
 
 ### 2023:
 
