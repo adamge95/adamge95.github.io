@@ -16,7 +16,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 ### 2023:
 
 - ***3D Printed Vision-Based Micro-Force Sensors for Microrobotic Applications.*** Adam, G.; Ulliac, G.; Clevy, C.; Cappelleri, D . J.
-[*Journal of Micro-Bio Robotics (2023)*](https://link.springer.com/article/10.1007/s12213-023-00152-x)
+<a href="https://link.springer.com/article/10.1007/s12213-023-00152-x" target="_blank"><i>Journal of Micro-Bio Robotics (2023)</i></a>
 
 ### 2022:
 
